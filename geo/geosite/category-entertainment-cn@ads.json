@@ -23,21 +23,13 @@
         "wlog.kuaishou.com"
       ],
       "domain_suffix": [
+        "ads.service.kugou.com",
+        "adserviceretry.kglink.cn",
+        "adserviceretry.kugou.com",
         "apple.www.letv.com",
         "ark.letv.com",
         "dc.letv.com",
         "g3.letv.com",
-        "click.hunantv.com",
-        "da.hunantv.com",
-        "da.mgtv.com",
-        "log.hunantv.com",
-        "log.v2.hunantv.com",
-        "res.hunantv.com",
-        "adbkwai.com",
-        "adkwai.com",
-        "adukwai.com",
-        "e.kuaishou.cn",
-        "e.kuaishou.com",
         "click.gamersky.com",
         "ja.gamersky.com",
         "ja1.gamersky.com",
@@ -53,9 +45,17 @@
         "msg.video.qiyi.com",
         "msg2.video.qiyi.com",
         "policy.video.iqiyi.com",
-        "ads.service.kugou.com",
-        "adserviceretry.kglink.cn",
-        "adserviceretry.kugou.com"
+        "adbkwai.com",
+        "adkwai.com",
+        "adukwai.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com",
+        "click.hunantv.com",
+        "da.hunantv.com",
+        "da.mgtv.com",
+        "log.hunantv.com",
+        "log.v2.hunantv.com",
+        "res.hunantv.com"
       ]
     }
   ]
