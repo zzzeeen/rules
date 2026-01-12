@@ -3,4 +3,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.lilyemby.my
   - DOMAIN-SUFFIX,tx.lilyemby.my
   - DOMAIN-SUFFIX,aliyun.lilyemby.my
+  - DOMAIN-SUFFIX,cdn.lilyemby.com
+  - DOMAIN-SUFFIX,tx.lilyemby.com
+  - DOMAIN-SUFFIX,aliyun.lilyemby.com
   
